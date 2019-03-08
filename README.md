@@ -1,3 +1,16 @@
-# WHIRLPOOL REBATE CENTER
-The Whirlpool Rebate and Promotion Center website was built to make submitting rebates a seamless experience.
-The inspiration for the design was taken from other Rebate Center's done before, but I was able to design this with Whirlpool's branding in mind. I incorporated a nice step-by-step progress bar so the user knows exactly where they are in the experience at all times. Once the creative design was approved by the client, I began building the responsive prototype. I wanted to make sure the user had the same experience on both mobile and desktop. 
+# WHIRLPOOL REBATE CENTER (Prototype)
+The Whirlpool Rebate and Promotion Center website was built to make submitting rebates a seamless experience for the customer.
+
+## Build
+HTML, CSS
+
+## Instructions
+Walk through the online rebate experience step by step.  
+Pick your rebate, submit your information, add purchases, and upload receipts.  
+You are also able to check the status of your rebate or enter serial numbers of products.
+
+## Screenshots
+Coming Soon
+
+## Dependencies
+Bootstrap 4
